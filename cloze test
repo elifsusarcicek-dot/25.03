@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body { font-family: sans-serif; padding: 20px; background-color: #f4f4f4; }
+  .box { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+  input { border: 1px solid #ccc; padding: 5px; color: blue; font-weight: bold; }
+</style>
+</head>
+<body>
+
+<div class="box">
+  <h2>Robot Ethics: Complete the Logic</h2>
+  <p>1. If we <b>(give)</b> <input type="text" placeholder="give"> robots rights, they <b>(be)</b> <input type="text" placeholder="will be"> happier. (Type 1: Real Possibility)</p>
+  
+  <p>2. If I <b>(have)</b> <input type="text" placeholder="had"> a robot friend, I <b>(ask)</b> <input type="text" placeholder="would ask"> it to do my homework! (Type 2: Hypothetical)</p>
+  
+  <p>3. If the toaster <b>(become)</b> <input type="text" placeholder="becomes"> sentient, I <b>(not / unplug)</b> <input type="text" placeholder="will not unplug"> it. (Type 1: Real Possibility)</p>
+  
+  <p>4. If robots <b>(rule)</b> <input type="text" placeholder="ruled"> the world, humans <b>(live)</b> <input type="text" placeholder="would live"> in zoos. (Type 2: Hypothetical)</p>
+</div>
+
+</body>
+</html>
